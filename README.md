@@ -172,22 +172,44 @@ prime-nails-by-fernanda/
 
 ---
 
-# ✦ Author
+## ✦ CONNECT WITH ME ✦
 
-### Angela Coreas
+<p align="center">
 
-Software Engineering Student | WGU
+<a href="mailto:angelacoreas1989@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Passionate about building real-world projects while developing software engineering and web development skills.
+<a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-**GitHub:**  
-https://github.com/angelacoreas1989-boop
+<a href="https://www.linkedin.com/in/angela-coreas">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**Portfolio:**  
-https://angelacoreas1989-boop.github.io/tech-portfolio/
+<a href="https://github.com/angelacoreas1989-boop">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ✦ AUTHOR ✦
+
+<p align="center">
+<b>Angela Coreas</b><br>
+Software Engineering Student<br>
+Transitioning into Tech Through Real-World Projects
+</p>
+
+<p align="center">
+Building real-world projects while developing skills in software engineering, web development, and modern technology.
+</p>
 
 ---
 
 <p align="center">
-Designed with 💗 for Prime Nails by Fernanda
+Created for a small business client 🌸
 </p>
