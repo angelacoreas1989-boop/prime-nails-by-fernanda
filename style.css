@@ -71,17 +71,19 @@ nav a:hover {
 /* HERO */
 
 .hero {
-  min-height: 88vh;
+  min-height: 520px;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 90px 8%;
+  padding: 70px 8%;
   background:
-    linear-gradient(rgba(255, 182, 207, 0.32), rgba(255, 182, 207, 0.35)),
+    linear-gradient(rgba(255, 182, 207, 0.18), rgba(255, 182, 207, 0.22)),
     url("assets/hero-nails.jpg");
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-color: #f8d6df;
 }
 
 .hero-content {
