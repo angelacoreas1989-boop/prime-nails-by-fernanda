@@ -7,6 +7,7 @@ const slides = document.querySelectorAll(".hero-slide");
 
 function showSlides() {
   slides.forEach((slide) => slide.classList.remove("active"));
+
   slideIndex++;
 
   if (slideIndex > slides.length) {
@@ -14,6 +15,7 @@ function showSlides() {
   }
 
   slides[slideIndex - 1].classList.add("active");
+
   setTimeout(showSlides, 3500);
 }
 
