@@ -91,65 +91,78 @@ HTML • CSS • JavaScript • Git • GitHub • VS Code
 
 ---
 
-# ✦ Screenshots
+## ✦ Website Preview
 
-### Hero Section
+### Homepage
 
-Luxury landing page featuring custom branding, elegant design elements, and a clear call-to-action for booking appointments.
+![Homepage](./assets/Homepage.png)
 
-<img src="./assets/hero-screenshot.png" alt="Hero Section">
+The homepage introduces visitors to Prime Nails by Fernanda with elegant branding, featured services, and clear navigation designed to make booking simple and accessible.
 
-### About & Services
+### Services & Gallery
 
-Meet the artist section paired with service offerings, helping potential clients learn about the business and available nail services.
+![Services and Gallery](./assets/services-gallery.png)
 
-<img src="./assets/about-services-screenshot.png" alt="About and Services Section">
+Customers can browse available nail services, view pricing information, and explore examples of previous work to find inspiration for their next appointment.
 
----
+### Booking Section
 
-# ✦ Skills Demonstrated
+![Booking Section](./assets/booking-section.png)
 
-- Responsive Web Design
-- CSS Grid Layouts
-- Flexbox Layouts
-- Mobile Optimization
-- User Interface Design
-- Visual Branding
-- Business Website Development
-- Content Organization
-- Git Version Control
-- GitHub Pages Deployment
+The booking section provides customers with:
 
----
+* Pricing information
+* Recent nail inspiration designs
+* Appointment requirements
+* Deposit policy details
+* Direct Instagram booking access
 
-# ✦ What I Learned
-
-Through this project I strengthened my understanding of:
-
-- Building websites for real business owners
-- Creating consistent visual branding
-- Designing responsive layouts
-- Organizing content for user experience
-- Working with image assets and galleries
-- Deploying websites using GitHub Pages
-
-I also gained additional experience balancing business requirements with design decisions to create a professional and user-friendly website.
+This section helps clients understand the booking process while providing examples of previous work and service pricing.
 
 ---
 
-# ✦ Future Enhancements
+## ✦ Skills Demonstrated
 
-- Online booking form
-- Appointment scheduling system
-- Client testimonials section
-- Expanded portfolio gallery
-- Service add-on calculator
-- Instagram feed integration
-- Contact form
+* Responsive Web Design
+* Front-End Development
+* UI/UX Design
+* Mobile Optimization
+* Business Requirements Gathering
+* Client-Focused Development
+* Social Media Integration
+* Image Optimization
+* Website Branding
+* Content Organization
+* GitHub Pages Deployment
+* Real-World Business Workflow Design
 
 ---
 
-# ✦ Project Structure
+## ✦ What I Learned
+
+This project provided experience designing and developing a website for a real beauty industry business.
+
+I learned how to gather client requirements, organize services and pricing information, showcase visual work through galleries, and create a streamlined booking experience that directs customers to the preferred booking platform.
+
+This project strengthened my skills in responsive design, user experience, branding, and building websites that support small business growth.
+
+---
+
+## ✦ Future Enhancements
+
+* Online appointment scheduling
+* Client testimonials
+* Service packages
+* Seasonal promotions
+* Appointment reminder system
+* Customer gallery submissions
+* Online deposits
+* Gift card purchases
+* Automated booking requests
+
+---
+
+## ✦ Project Structure
 
 ```text
 prime-nails-by-fernanda/
@@ -158,16 +171,18 @@ prime-nails-by-fernanda/
 ├── style.css
 ├── script.js
 │
-└── assets/
-    ├── angela-coreas-banner.png
-    ├── pink-gold-marble.jpg
-    ├── about-fernanda.jpg
-    ├── hero-nails.jpg
-    ├── gallery-1.jpg
-    ├── gallery-2.jpg
-    ├── gallery-3.jpg
-    ├── hero-screenshot.png
-    └── about-services-screenshot.png
+├── assets/
+│   ├── angela-coreas-banner.png
+│   ├── Homepage.png
+│   ├── services-gallery.png
+│   ├── booking-section.png
+│   ├── fernanda.jpg
+│   ├── nail-1.jpg
+│   ├── nail-2.jpg
+│   ├── nail-3.jpg
+│   └── nail-4.jpg
+│
+└── README.md
 ```
 
 ---
@@ -211,5 +226,5 @@ Building real-world projects while developing skills in software engineering, we
 ---
 
 <p align="center">
-Created for a small business client 🌸
+Created for a small business client 💅
 </p>
