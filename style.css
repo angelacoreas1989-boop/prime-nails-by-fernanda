@@ -116,9 +116,9 @@ nav a:hover {
 .hero-content {
   position: relative;
   z-index: 2;
-  max-width: 780px;
-  background: rgba(255, 240, 245, 0.78);
-  padding: 58px 42px;
+  max-width: 620px;
+  background: rgba(255, 240, 245, 0.60);
+  padding: 40px 32px;
   border-radius: 36px;
   border: 2px solid rgba(200, 155, 60, 0.75);
   box-shadow: 0 25px 70px rgba(59, 31, 43, 0.35);
@@ -374,7 +374,8 @@ footer {
   }
 
   .hero-content {
-    padding: 42px 24px;
+    max-width: 92%;
+    padding: 36px 24px;
   }
 
   section {
