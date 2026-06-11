@@ -118,3 +118,113 @@ The booking section provides customers with:
 - Direct Instagram booking access
 
 This section helps clients understand the booking process while providing examples of previous work and service pricing.
+
+## ✦ Skills Demonstrated
+
+* Responsive Web Design
+* Front-End Development
+* UI/UX Design
+* Mobile Optimization
+* Business Requirements Gathering
+* Client-Focused Development
+* Social Media Integration
+* Image Optimization
+* Website Branding
+* Content Organization
+* GitHub Pages Deployment
+* Real-World Business Workflow Design
+
+---
+
+## ✦ What I Learned
+
+This project provided experience designing and developing a website for a real beauty industry business.
+
+I learned how to gather client requirements, organize services and pricing information, showcase visual work through galleries, and create a streamlined booking experience that directs customers to the preferred booking platform.
+
+This project strengthened my skills in responsive design, user experience, branding, and building websites that support small business growth.
+
+---
+
+## ✦ Future Enhancements
+
+* Online Appointment Scheduling
+* Customer Testimonials
+* Service Packages
+* Seasonal Promotions
+* Appointment Reminder System
+* Customer Gallery Submissions
+* Online Deposits
+* Gift Card Purchases
+* Automated Booking Requests
+
+---
+
+## ✦ Project Structure
+
+```text
+prime-nails-by-fernanda/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── angela-coreas-banner.png
+│   ├── hero-screenshot.png
+│   ├── about-services-screenshot.png
+│   ├── booking-section.png
+│   ├── hero-nails.jpg
+│   ├── about-fernanda.jpg
+│   ├── gallery-1.jpg
+│   ├── gallery-2.jpg
+│   ├── gallery-3.jpg
+│   └── pink-gold-marble.jpg
+│
+└── README.md
+```
+
+---
+
+## ✦ CONNECT WITH ME ✦
+
+<p align="center">
+
+<a href="mailto:angelacoreas1989@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/angela-coreas">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/angelacoreas1989-boop">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ✦ AUTHOR ✦
+
+<p align="center">
+<b>Angela Coreas</b><br>
+Software Engineering Student<br>
+Transitioning into Tech Through Real-World Projects
+</p>
+
+<p align="center">
+Building real-world projects while developing skills in software engineering, web development, and modern technology.
+</p>
+
+---
+
+<p align="center">
+Created for a small business client 💅
+</p>
+
